@@ -13,4 +13,4 @@ Based on the scenario above, how could Susan have used a more Agile approach to 
 
 # My Solution 
 
-Susan is the scrum master. It is the job of the scrum master to facilitate and let the agile processes occur smoothly. Susan should have consulted wth John, who is the product owner and adding features to the backlof should have been the responsibility of john. SUsan should have focused on facilitaing the discussion with john and the team on the feature and then let john manage the backlog
+Susan is the scrum master. It is the job of the scrum master to facilitate and let the agile processes occur smoothly. Susan should have consulted wth John, who is the product owner and adding features to the backlog should have been the responsibility of john. Susan should have focused on facilitating the discussion with john and the team on the feature and then let john manage the backlog
