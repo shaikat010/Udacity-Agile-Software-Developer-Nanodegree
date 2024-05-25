@@ -35,3 +35,16 @@ From the perspective of technical complexity, we want to prioritize the features
 We want to deliver the simplest things that provide the most amount of value; therefore, we tackle the riskiest components first so that we know the best way to proceed. We work on the hard things, that bring the customer the most value, first.
 
 
+# Introduction to Backlogs
+
+The product backlog is the team’s to-do list and is owned by the Product Owner. The backlog is where all the work (Epics, Features, & User Stories) remaining to be done for the product is kept. The Product Owner, Development Team, and Scrum Master all interact with the backlog; however, the Product Owner has the final say on the priority of the work in the backlog.
+
+New Definitions
+Product Backlog - The work remaining to be completed for the product. The Product Owner is the primary owner of the product backlog and is primarily responsible for owning it. In Scrum, the product backlog is considered one of the three main artifacts the team uses to manage work.
+
+
+
+
+
+
+
