@@ -37,6 +37,13 @@ We want to deliver the simplest things that provide the most amount of value; th
 
 # Introduction to Backlogs
 
+What is a product backlog?
+
+1. List of all the remaining work for the product
+2. Planning tool for the team developing the product
+3. Contains users stories, features and epics for a product
+4. Centralsied and Prioritized TO-DO List for the Product
+
 The product backlog is the team’s to-do list and is owned by the Product Owner. The backlog is where all the work (Epics, Features, & User Stories) remaining to be done for the product is kept. The Product Owner, Development Team, and Scrum Master all interact with the backlog; however, the Product Owner has the final say on the priority of the work in the backlog.
 
 New Definitions
