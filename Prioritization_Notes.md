@@ -53,7 +53,29 @@ Product Backlog - The work remaining to be completed for the product. The Produc
 
 ![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/127e050d-2165-416f-8a2c-0e04d15bf3b9)
 
+# Product Owner and the Backlog
 
+1. Owns the product backlog
+2. Single point of contact that prioritises the backlog
+3. Adds detailed user stories that are ready to be implemented
+4. Adds stories, features and epics that are to be implemented in the future
+5. Adds feature request from the customer to the backlog
+6. Cleans the product backlog by removing stories or features that won't be implemented
+
+# The Development Team and the Backlog
+
+1. Queue for the work to be completed
+2. Pulls in work; single source of work
+3. Adds technical related stories / tasks to the backlog when needed
+4. Estimates stories so that product onwer can prioritise them
+
+# Scrum Master and the Backlog
+
+1. Assist product owner with management and prioritization
+2. Ensure team works in the right stories
+3. Protects the team from external distractions
+
+# Backlog is continuously changing, evolving and never ending!
 
 
 
