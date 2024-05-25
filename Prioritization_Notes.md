@@ -49,6 +49,10 @@ The product backlog is the team’s to-do list and is owned by the Product Owner
 New Definitions
 Product Backlog - The work remaining to be completed for the product. The Product Owner is the primary owner of the product backlog and is primarily responsible for owning it. In Scrum, the product backlog is considered one of the three main artifacts the team uses to manage work.
 
+## Backlog Interactions:
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/127e050d-2165-416f-8a2c-0e04d15bf3b9)
+
 
 
 
