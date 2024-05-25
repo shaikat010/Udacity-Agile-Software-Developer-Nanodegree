@@ -78,6 +78,26 @@ Product Backlog - The work remaining to be completed for the product. The Produc
 # Backlog is continuously changing, evolving and never ending!
 
 
+# Managing and Organising the Backlog
 
+
+
+The backlog must be properly managed and organized by the Product Owner in order for the team to know “what” should be worked on next. The Product Owner ensures that the backlog is kept up to date and always reflects the current priorities for the product using a technique called Progressive Elaboration. User stories that are high priority for the product are moved to the top of the backlog and detailed appropriately to meet the INVEST criteria and user stories that are lower priority are moved to the bottom of the backlog.
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/53221ad5-8175-4214-aada-7ba80ba8943a)
+
+### Progressive Elaboration
+Combine the backlog and any new user stories. Then prioritize user stories to the top of the backlog the items of high priority, well defined, and finer granularity. While the low priority, not well defined, and courses granularity user stories will be at the bottom of the backlog.
+
+# A good product backlog is one that is Detailed Appropriately, Estimatible, Emergent, and Prioritized.
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/1db38b7d-accf-4247-b815-dca07ef04695)
+
+### Good Product Backlog: DEEP
+The key aspects of a good product backlog are being Detailed Appropriately, Estimated, Emergent, and Prioritized.
+
+New Definitions
+DEEP - An acronym that stands for Detailed Appropriately, Estimatible, Emergent, and Prioritized. DEEP outlines the preferable attributes of a backlog.
+Progressive Elaboration - The process of defining high priority user stories and arranging them at the top of the backlog and moving lesser defined-lower priority stories and features to the bottom of the backlog.
 
 
