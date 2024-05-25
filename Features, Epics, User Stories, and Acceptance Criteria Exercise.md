@@ -2,9 +2,10 @@
 
 Task:
 Change the following Requirements into User Stories:
-1.The administrator needs to be able to create a report to send to the executives.
-2.A customer placed an order online, one of the items is missing from the shipment, and they want to request a refund without calling the store.
-3.The system shall send an email automatically to all employees anytime updates are made.
+
+1. The administrator needs to be able to create a report to send to the executives.
+2. A customer placed an order online, one of the items is missing from the shipment, and they want to request a refund without calling the store.
+3. The system shall send an email automatically to all employees anytime updates are made.
 
 My Solution: 
 1. As an administrator I want to be able to create a report and then send it to the executives
