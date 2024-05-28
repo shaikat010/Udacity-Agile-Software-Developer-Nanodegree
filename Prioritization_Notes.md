@@ -209,6 +209,24 @@ There are several other methods that we didn’t cover in the lesson but visit t
 
 Roadmunk--> https://roadmunk.com/guides/product-prioritization-techniques-product-managers/
 
+# Risk and Prioritization Influence
+
+Traditionally projects that have risks that are seen as "good" but in Agile, all risks are seen as threats to the product or projects success, so items that present the most risk are prioritized first to fail fast.
+
+Since risks threaten the product's success, teams embrace failure as an opportunity to learn what does work and this is where failing fast appears. Teams focus on work that is the riskiest first and confront the things that could make them fail, which leads them to overcome failure more quickly, and they learn along the way.
+
+Here are some examples of risks that might be encountered:
+
+Very complex work such as moving data from a data center to the cloud and the data needs to be refined and cleaned to move it to another location.
+Inexperienced in a particular subject matter such as, a team being assigned to create a network of blockchains with no prior experience.
+You have learned that the product owner is primarily responsible for prioritizing work in the backlog for the team and as the team builds the product their knowledge and understanding of the product grows. The team's understanding and insight gained from being close to the work allows them to give the product owner feedback about priorities. The product owner leverages the team's knowledge and insight and often partners to prioritize the backlog together.
+
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/1b03a5e7-dd99-46b9-b72b-51c83b65dfd2)
+
+### Prioritization Influence Evolution
+Over time, a team moves from being new to a project to being experienced and so does the relative influence on prioritization. It is still the Product Owner's responsibility, but the development team is able to give more information and gain more influence on what should be prioritized.
+
 
 
 
