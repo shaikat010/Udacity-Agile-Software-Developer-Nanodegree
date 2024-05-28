@@ -142,5 +142,26 @@ New Definitions
 DEEP - An acronym that stands for Detailed Appropriately, Estimatible, Emergent, and Prioritized. DEEP outlines the preferable attributes of a backlog.
 Progressive Elaboration - The process of defining high priority user stories and arranging them at the top of the backlog and moving lesser defined-lower priority stories and features to the bottom of the backlog.
 
+# Prioritization Techniques
+
+Prioritization can be a tough job for Product Owners because of all the considerations such as time, cost, value, and many others that must be taken into account. There are several techniques including the MoSCoW, Dot Voting, and Play money (Purchase a feature) that Product Owners leverage to prioritize the work for a product.
+
+When using the Dot Voting technique user stories are made visible to everyone then, each person is given an equal amount of Dots (votes). The number of dots given should be less than the number of stories, and good guidance is 20-30% of the total number of stories to force priority. Each person places their dots (votes) anonymously or publicly on the features or user stories they see as the most valuable. User stories are then prioritized according to the highest number of dots (votes) received.
+
+With the Play Money technique each person involved receives money that equals the amount of the budget for the product. User stories and or features are laid out on the table and each person distributes (spends) their money on the things that are most valuable to them. Features are then prioritized according to amount of money received. Features that receive the most money are prioritized the highest.
+
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/ca93b153-f8a8-442c-afc5-5d4a21cd5590)
+
+
+Prioritization Technique: MoSCoW Method
+This is a method where you categorize each item within one of the following categories: Must have features, Should have features, Could have features, Won't have features. The lowercase 'o's make it is easier to remember the acronym.
+
+New Definitions
+MoSCoW - An acronym that stands for Must Have, Should Have, Could Have, and Won't Have. MoSCoW is a prioritization technique used by Product Owners to help prioritize work for a product
+Resources
+There are several other methods that we didn’t cover in the lesson but visit the following link to learn about some additional prioritization techniques that you might find useful from Roadmunk(opens in a new tab).
+
+
 
 
