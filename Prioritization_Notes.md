@@ -144,6 +144,51 @@ Progressive Elaboration - The process of defining high priority user stories and
 
 # Prioritization Techniques
 
+COnsiderations for Prioritization:
+1. Cost
+2. Time
+3. Technical Complexity
+4. Customer Satisfaction
+
+### A Few Techniques:
+
+1. Basic Prioritization
+2. MoSCOW
+3. Dot Voting
+4. Play Money
+
+
+### Basic Prioritization
+
+Prioritise user sotries based on value alone
+User stories are assigned priority levels such as P1, P2 and P3
+High priority user stories are assigned P1, and are implemented first
+P2 user stories are implemented next and P3 sories are the last
+
+### MoSCOW Method
+
+M --> Must Have
+S --> Should Have
+C --> Could Have
+W --> Won't Have
+
+Can organise the user stories in moscow as a grid and then as swinlane diagrams 
+
+### Dot Voting
+
+User stories or featuresa are posted on a board
+Dots represent votes and are given to each person
+Each person receives the same number of dots
+The number of dots that are given should be less than the number of user stories being voted on
+Each person assigns the dots (votes) to the user stories
+User stories are prioritised according to the number of dots received
+
+### Play Money
+
+Give each customer /stakeholder/ team member play money that equals the product or project budget
+Each person distributes their money on the features for the product
+Features are prioritised on the budget they receive
+
 Prioritization can be a tough job for Product Owners because of all the considerations such as time, cost, value, and many others that must be taken into account. There are several techniques including the MoSCoW, Dot Voting, and Play money (Purchase a feature) that Product Owners leverage to prioritize the work for a product.
 
 When using the Dot Voting technique user stories are made visible to everyone then, each person is given an equal amount of Dots (votes). The number of dots given should be less than the number of stories, and good guidance is 20-30% of the total number of stories to force priority. Each person places their dots (votes) anonymously or publicly on the features or user stories they see as the most valuable. User stories are then prioritized according to the highest number of dots (votes) received.
@@ -160,7 +205,11 @@ This is a method where you categorize each item within one of the following cate
 New Definitions
 MoSCoW - An acronym that stands for Must Have, Should Have, Could Have, and Won't Have. MoSCoW is a prioritization technique used by Product Owners to help prioritize work for a product
 Resources
-There are several other methods that we didn’t cover in the lesson but visit the following link to learn about some additional prioritization techniques that you might find useful from Roadmunk(opens in a new tab).
+There are several other methods that we didn’t cover in the lesson but visit the following link to learn about some additional prioritization techniques that you might find useful from 
+
+Roadmunk--> https://roadmunk.com/guides/product-prioritization-techniques-product-managers/
+
+
 
 
 
