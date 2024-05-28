@@ -228,7 +228,27 @@ You have learned that the product owner is primarily responsible for prioritizin
 Over time, a team moves from being new to a project to being experienced and so does the relative influence on prioritization. It is still the Product Owner's responsibility, but the development team is able to give more information and gain more influence on what should be prioritized.
 
 
+# Prioritization Lesson Overview:
+
+The Backlog is the work remaining to be done for the product
+The backlog should be managed and prioritized according to value and technical complexity
+The Product Owner is the primary owner of the backlog
+Prioritization is not a simple task; it's complicated and takes a lot of thought and consideration. As you start the journey of prioritizing work, you and your team will make mistakes and that is OK. In Agile, mistakes are embraced because they help the team learn and evolve.
 
 
 
+# Prioritization Lesson Glossary
 
+Lesson Vocabulary
+DEEP - An acronym that stands for Detailed Appropriately, Estimatible, Emergent, and Prioritized. DEEP outlines the preferable attributes of a backlog.
+
+MoSCoW - An acronym that stands for Must Have, Should Have, Could Have, and Won't Have. MoSCoW is a prioritization technique used by Product Owners to help prioritize work for a product.
+
+Product Backlog - The work remaining to be completed for the product. The Product Owner is the primary owner of the product backlog and is primarily responsible for owning it. In Scrum the product backlog is considered one of the three main artifacts the team uses to manage work.
+
+Progressive Elaboration - The process of defining high priority user stories and arranging them at the top of the backlog and moving lesser defined-lower priority stories and features to the bottom of the backlog.
+
+Resources
+There are several other methods that we didn’t cover in the lesson but visit the following link to learn about some additional prioritization techniques that you might find useful from Roadmunk(opens in a new tab).
+
+Roadmunk--> https://roadmunk.com/guides/product-prioritization-techniques-product-managers/
