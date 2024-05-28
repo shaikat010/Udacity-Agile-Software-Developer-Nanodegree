@@ -9,5 +9,18 @@ The team’s backlog always has a lot of new stories at the top of the backlog t
 
 Based on the scenario above:
 
+### Question:
 What Agile practices or techniques should the product owner use to help the team improve and deliver what they committed to in the sprint?
 What can the scrum master do to help the team and the product owner?
+
+### Solution
+
+Agile Practise and Techniques for the Product Onwer:
+1. Review the sprint for the progess of the team and find out the metrics to understand about the capacity of the team
+2. Make sure that the user stories are being built using the INVEST framework to allow for sufficuent details for the user stories
+3. Do proper backlog refinement and foltering to allow for the user sotries with higher details to be at the top of the backlog
+
+What the scrum master should do:
+1. Help the Product Owner and the team by facilitatng conversation around the volume or work that the team is supposed to take based on previous statistics and performance
+2. Facilitate the scrum ceremonies to allow for honest and approporiate commmunication about the condition and the status of an around the work. 
+
