@@ -39,7 +39,7 @@ Scoping is Important because:
 3. Team can estimate
 4. Stories can be "split" where needed
 
-### Approach to Scoping and Estimcation
+### Approach to Scoping and Estimation
 
 1.Fast
 2.Easy
