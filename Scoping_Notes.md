@@ -52,6 +52,22 @@ The team can estimate more effectively if they have a good understanding of the 
 
 It's important to be careful not to let Product Owners, customers, or stakeholders dictate scope or estimates because it will hurt the quality of the product. It’s also very important that priority comes from one person and that person should be the Product Owner
 
+# Scoping and Estimation
+
+Measuring the scope of work that needs to be completed is a key component to creating tactical plans for doing the work and is a major factor in the Product Owner's prioritization process. The development team provides relative estimates for each user story to measure the scope of work and they take Complexity, Size, Level of Effort, and Certainty into account when estimating. Most Agile teams use story points as the unit of measure to provide estimates. The team’s estimates are always relative because of all the factors being considered, instead of exact measures such as hours, days, minutes, etc. Only the people doing the work can estimate the work and relative estimates should always be based on ideal time.
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/aa1f4c30-99b6-4a53-b931-db4de708215e)
+
+
+Relative Estimates
+Here is an example of relative estimates in which you can see in this comparison bricks (1) is estimated as the smallest and least complex, but the complexity grows from a house (3), fire station (8), hotel (13), and finally a city (21). The city is the largest and most complex relative to the options and numbers present.
+
+New Definitions
+Relative Estimating - the art of estimating the size, scope, complexity, and level of effort for a user story, based on the size, scope, complexity, and level of effort of another user story
+Story Points - The numerical units of measure that agile teams use to represent the size, scope, complexity, and level of effort for user stories
+Ideal Time - The amount of time it would take to complete a user story without any distractions or disruptions
+
+
 
 
    
