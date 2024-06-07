@@ -120,10 +120,15 @@ Measuring the scope of work that needs to be completed is a key component to cre
 Relative Estimates
 Here is an example of relative estimates in which you can see in this comparison bricks (1) is estimated as the smallest and least complex, but the complexity grows from a house (3), fire station (8), hotel (13), and finally a city (21). The city is the largest and most complex relative to the options and numbers present.
 
-New Definitions
+### New Definitions
 Relative Estimating - the art of estimating the size, scope, complexity, and level of effort for a user story, based on the size, scope, complexity, and level of effort of another user story
+
 Story Points - The numerical units of measure that agile teams use to represent the size, scope, complexity, and level of effort for user stories
+
 Ideal Time - The amount of time it would take to complete a user story without any distractions or disruptions
+
+# Estimation Techniques
+
 
 
 
