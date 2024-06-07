@@ -102,7 +102,15 @@ It's important to be careful not to let Product Owners, customers, or stakeholde
 
 ## Ideal Time
 
-1. Do not 
+1. Do not factor in time out of the office
+2. Do not factor in time spent on responding to emails or IMs
+3. Do not factor in meetings, events, happy works etc
+
+# How they relate:
+
+1. Scope is measured using relative estimates
+2. Relative estimates are often represented using story points
+3. Estimates should be based on ideal time
 
 Measuring the scope of work that needs to be completed is a key component to creating tactical plans for doing the work and is a major factor in the Product Owner's prioritization process. The development team provides relative estimates for each user story to measure the scope of work and they take Complexity, Size, Level of Effort, and Certainty into account when estimating. Most Agile teams use story points as the unit of measure to provide estimates. The team’s estimates are always relative because of all the factors being considered, instead of exact measures such as hours, days, minutes, etc. Only the people doing the work can estimate the work and relative estimates should always be based on ideal time.
 
