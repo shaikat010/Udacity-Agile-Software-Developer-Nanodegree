@@ -54,6 +54,56 @@ It's important to be careful not to let Product Owners, customers, or stakeholde
 
 # Scoping and Estimation
 
+## How scoping works
+
+1. The product owner adds and prioritizes user stories in the backlog
+2. The Product Owner and team discuss the work together during a planning meeting
+3. The team provides a relative estimate for each user story
+
+## Relative Estimates in Agile Planning
+
+1. The process of applying estimates by considering size, complexity, level of effort and unknown
+2. Softwares cannot be estimated in absolutes or exact measurements
+3. Most ofter teams use story points to represent relative story points
+
+## Story Points
+
+1. Tools used to provide relative estimates that represent scope
+2. Drive consensus and conversation to ensure understanding
+3. Numbers are relative and not equal to days, hours, minutes etc
+4. Have different meanings from team to team
+5. Used to determine velocity of teams
+
+## Components of user story estimates
+
+1. Complexity
+2. Size
+3. Level of Effort
+4. Unknowns
+
+## More on Estimates
+
+1. Estimation is done during planning ceremonies/ meetings
+2. Estimates are done in ideal time
+3. Big estimates are an indicatior of too much complexity and too many unknowns (>8)
+4. Smaller estimates indicate the team is more certain (<8)
+5. **Only the team doing the work can estimate the work**
+   
+
+## Reducing Scope
+
+1. User stories should be estimateable (INVEST --> E Missing
+2. If estimates are too big, user stories should be split
+3. When user stories are split, they do not have to equal the sum of the original estimates
+
+# Teams should estimate user stories in ideal time
+
+## This means the time it would take to complete the user story without any distractions
+
+## Ideal Time
+
+1. Do not 
+
 Measuring the scope of work that needs to be completed is a key component to creating tactical plans for doing the work and is a major factor in the Product Owner's prioritization process. The development team provides relative estimates for each user story to measure the scope of work and they take Complexity, Size, Level of Effort, and Certainty into account when estimating. Most Agile teams use story points as the unit of measure to provide estimates. The team’s estimates are always relative because of all the factors being considered, instead of exact measures such as hours, days, minutes, etc. Only the people doing the work can estimate the work and relative estimates should always be based on ideal time.
 
 ![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/aa1f4c30-99b6-4a53-b931-db4de708215e)
