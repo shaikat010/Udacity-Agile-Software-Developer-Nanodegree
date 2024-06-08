@@ -129,6 +129,45 @@ Ideal Time - The amount of time it would take to complete a user story without a
 
 # Estimation Techniques
 
+## Estimation Techniques Covered
+
+1. Planning Poker
+2. T-Shirt Sizing
+3. Affinity Estimation
+
+## Fibonacci Sequence used for story points --> 0 , 1/2 , 1 , 2 , 3 , 5 , 8 , 13 , 20 , 40 , 100
+
+It is not sequencial but has gaps
+
+Used as story points
+
+Forces teams to estimate relatively
+
+## Estimation Technique : Planning Poker
+
+1. Repid technique that is good for products at all phases
+2. Team members are given index cards or planning poker cards
+3. Cards have the Fabonacci Sequence
+4. After the story is discussed and understood by everyone the team points by raising their cards at the same time
+5. Misalignment means there is confusion about the user story so more duscussion might be necessary
+6. Team repeats if the estimates are not relatively aligned
+
+## Estimation Technique : T-shirt Sizing 
+
+1. Rapid estimation technique
+2. Good for projects that are just beginning or that have a lot of unknowns
+3. Team uses t-shirt sizes (S,M,L,XL) to estimate
+4. Good for estimating epics
+
+## Estimation Techniques : Affinity Estimation
+
+1. Rapid estimation technique
+2. Good for new products with a lot of stories to estimate
+3. To estimate, team uses t-shirt sizes (S,M,L,XL) coffee cup sizes, or Fabonacci Sequence
+4. Team places similar user stories into the same bucket
+
+small bucket --> less complex
+large bucket --> more complex
 
 
 ![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/b0c63b7a-f5ea-47e2-94eb-fd9f770e841c)
