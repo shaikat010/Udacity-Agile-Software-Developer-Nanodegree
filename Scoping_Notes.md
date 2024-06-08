@@ -131,6 +131,29 @@ Ideal Time - The amount of time it would take to complete a user story without a
 
 
 
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/b0c63b7a-f5ea-47e2-94eb-fd9f770e841c)
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/2e079311-6dd7-47c4-894f-14a4123f7e41)
+
+Estimation Technique: T-Shirt Sizing
+In this technique t-shirt sizes are used to estimate the complexity of a user story.
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/9ae74bcb-dee3-4e9f-92f0-d485c4535c3a)
+
+Estimation Technique: Affinity Estimation
+In this technique we group the user stories in this case into swim lanes using the T-Shirt Sizing to determine the swim lane categories.
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/5ff2a9e1-3798-440f-8203-df38d49ff785)
+
+## Resources
+You can learn more about about the benefits of relative estimating and why teams often establish a baseline to begin estimating by reading the following article from EveryDayAgile --> https://everydayagile.com/an-easy-way-to-explain-relative-estimation-9d2245d01965
+
+
+
+
+
+
+
 
 
    
