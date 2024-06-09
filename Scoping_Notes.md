@@ -191,6 +191,30 @@ You can learn more about about the benefits of relative estimating and why teams
 
 # What does "Done" mean ?
 
+### Are we done yet?
+
+a. Definition of Done
+
+b. Unclear Direction
+
+c. Quality Suffers
+
+## Teams Defintion of Done
+
+1. Agile Teams establish a definition of done (DOD) for deeloping software
+2. The DOD is the teams agreement for everything that needs to happen for the code to be "done"
+3. If the code is not developed to the standard of "done" for the team then they must keep working on it
+4. Teams take their definition of done into account when estimating user stories and breaking the user stories into smaller tasks
+5. The DOD can vary from company to company and from team to team
+
+## Accpetance Criteria Defition of Done:
+
+1. Acceptance criteria provide the team with the parameters for implementing user stories
+2. The acceptance criteria must be met in order for the story to be accpeted as "Done" by the Product Owner
+3. This requires conversation and transparency between the team and the Product Owner
+4. We demo the working software to the Product Owner to confirm that the acceptance criteria has been met
+5. Important to distinguish between the acceptance criteria being met and the Product Owner adding scope
+
 The Definition of Done (DOD) is a critical element to help teams, product owners, and stakeholders communicate. A solid DOD that everyone understands helps provide direction and helps ensure that high-quality software is delivered. Think about the DOD from 2 perspectives:
 
 The Team's Definition of Done is their agreement for everything that needs to happen for the code to be "done". If any of the code is not developed to the standard of “done” that the team has agreed upon, then the team must keep working on it until it is complete. As teams are estimating, they should be considering what it will take to complete user stories according to the team's definition of done.
