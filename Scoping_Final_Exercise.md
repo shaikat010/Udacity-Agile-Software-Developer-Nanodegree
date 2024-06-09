@@ -25,3 +25,11 @@ Moving forward e should expect similar levels of estimation as the estimation sh
 If the team is estimating high that means they feel that the product is difficult and also considering 
 that the team is newly formed chances are high that they will factors out the time needed for team formation and other a activities  well. 
 
+
+# Example Answers from Instructor
+Example Answers
+1. The team’s estimates are high because the team is new. The team is estimating conservatively because they have not worked together before, therefore they haven’t built the trust and understanding to estimate less conservatively. As the team develops trust and understands each other's strengths and weaknesses they will be able to estimate better.
+2. The team doesn’t understand the product yet, therefore there are a lot of unknowns. As they begin working on the product and understand what they are building there will be less unknowns and they will have more accurate estimates.
+3. The user stories that Kevin the Product Owner provided are too big. In the future he can split or descope user stories to make them smaller so that the team can commit to getting more user stories completed.
+
+
