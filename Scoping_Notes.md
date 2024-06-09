@@ -189,6 +189,14 @@ You can learn more about about the benefits of relative estimating and why teams
 
 
 
+# What does "Done" mean ?
+
+The Definition of Done (DOD) is a critical element to help teams, product owners, and stakeholders communicate. A solid DOD that everyone understands helps provide direction and helps ensure that high-quality software is delivered. Think about the DOD from 2 perspectives:
+
+The Team's Definition of Done is their agreement for everything that needs to happen for the code to be "done". If any of the code is not developed to the standard of “done” that the team has agreed upon, then the team must keep working on it until it is complete. As teams are estimating, they should be considering what it will take to complete user stories according to the team's definition of done.
+
+The Product Owner's Definition of Done comes in the form of acceptance criteria. As you have already learned, acceptance criteria are parameters that guide the implementation of user stories. These parameters can be thought of as the minimum set of criteria that needs to be met for the user story to be considered "done" by the Product Owner. The team demos the working software to the Product Owner to confirm that the acceptance criteria has been met. During demos and conversations about the DOD with the Product Owner, it is important to distinguish between the acceptance criteria being met and the Product Owner adding to the scope. Conversation and transparency are keys to ensuring that the acceptance criteria or DOD is met in all cases.
+
 
 
 
