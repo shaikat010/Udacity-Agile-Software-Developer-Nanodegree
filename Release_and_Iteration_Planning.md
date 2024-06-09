@@ -14,3 +14,7 @@ In this lesson we will cover Intro to Release and Iteration Planning, Agile Tech
 4. Define a spike
 5. Explain and apply timeboxes
 6. Apply the Scrum framework to plan a release and a sprint
+
+
+# Why Does Release and Iteration Planning Matter?
+
