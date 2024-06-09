@@ -223,7 +223,16 @@ The Product Owner's Definition of Done comes in the form of acceptance criteria.
 
 
 
+# Scoping Lesson Glossary & Resources
+Lesson Vocabulary
+Ideal Time - The amount of time it would take to complete a user story without any distractions or disruptions.
 
+Relative Estimating - the art of estimating the size, scope, complexity, and level of effort for a user story, based on the size, scope, complexity, and level of effort of another user story.
+
+Story Points - The numerical units of measure that agile teams use to represent the size, scope, complexity, and level of effort for user stories.
+Lesson Resources
+
+You can learn more about the benefits of relative estimating and why teams often establish a baseline to begin estimating by reading the following article from EveryDayAgile(opens in a new tab).
 
 
 
