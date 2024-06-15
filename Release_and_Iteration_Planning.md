@@ -96,7 +96,7 @@ Team          --> Estimates the User Stories
 --> Let's us know if we are on track
 --> Helps us understand the impact of adding user stories to the release
 --> Displayed on a Graph:
-    --> Y-axis represents story ponts
+    --> Y-axis represents story points
     --> X-axix represents sprints or weeks
 
 
@@ -105,8 +105,32 @@ Team          --> Estimates the User Stories
 
 ## Before shipping software
 
-- Test and 
+- Test to verify what is needed is there
+- Test to validate that it is working as intended
+- Demo to customer
+- Testing is done continually
+- Report defects (bugs)
 
+## After software is shipped 
 
+- Test to verify what is needed is there
+- Test to validate it is working as intended
+- Testing is done continually
+- Report escaped defects(bugs)
+
+## Testing
+
+1. Manually
+2. Automated
+3. Comnination
+
+## Managing Defects
+
+- Software can be released with defects if it still delivers value
+- Be transparent with customers about defects and plans to fix them
+
+## Escapted Defects
+
+- Defects that are not found by the customer after the software has been released. Increases in escaped defects can be a sign of testing and development problems
 
 
