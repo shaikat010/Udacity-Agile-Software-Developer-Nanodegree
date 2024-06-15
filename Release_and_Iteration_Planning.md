@@ -133,4 +133,14 @@ Team          --> Estimates the User Stories
 
 - Defects that are not found by the customer after the software has been released. Increases in escaped defects can be a sign of testing and development problems
 
+The team uses tactical plans that are more detailed than the roadmap to execute and deliver against the high-level plans that the roadmap outlines. These tactical plans are known as the release plan and iteration plan. Releasing software is the process of giving the latest version of working software to the customer. This is done incrementally as the software is built so that customers receive the value as it is available. The work is broken down by release and eventually by iteration for implementation so that the team can focus on completing the work in small chunks. Testing at all levels is an integral part of releasing software and helps the team identify and fix problems early and often.
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/9fe6d266-070d-494b-85a5-c802e5b3ee61)
+
+Getting to Release
+This is a cyclical process which usually begins at Identify and moves through Plan, Build, Test, Deploy, and Maintain.
+
+New Definitions
+Release Plan - The plan for releasing the latest version of the software to the customer. The release plan is tactical and communicates what will be delivered and when it will be delivered. The release plan is made up of several iterations or sprints.
+Iteration Plan - The tactical plan for completing work within a set period of time. Most iterations are 2 weeks long and the iteration plan is more detailed and tactical than the release plan.
 
