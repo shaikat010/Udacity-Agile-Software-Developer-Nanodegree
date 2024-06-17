@@ -80,5 +80,29 @@ This is based on
 - Receive and implement feedbacks
 
 
+Teams leverage several Agile techniques to deliver value incrementally. To begin teams and Product Owners plan in a way that results in a Minimum Viable Product (MVP). Software is never-ending and there are lots of requirements, so the team uses the MVP concept to deliver the minimum set of functionality needed for the Product to be valuable to the customer. With some key values being:
 
+Priority
+Bringing Value
+Increasing Speed to Market
+Getting Feedback
+Working on Future Improvements
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/d0d05185-f105-4318-ae84-e61bce5349c4)
+
+This approach is not about avoiding work but more about prioritizing work so that the team can focus and deliver high-quality software. Teams also leverage time boxes called spikes to deep dive into problems. Lastly, teams use 2 feedback loops of continuous integration and continuous delivery (CI/CD) to bring attention to problems earlier so that releases are more successful.
+
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/6308a2fb-ec20-4dd6-9848-e607bcd2fb8f)
+
+Continuous Integration and Delivery
+This cycle helps to encourage the practice of frequent updates so that it is faster to navigate issues that come up.
+
+## New Definitions
+Continuous Integration - A software development practice in which developers merge code frequently into a shared code repository.
+Continuous Delivery - A software development practice in which developers deliver working software frequently and iteratively.
+Spike - A time box used by teams to do research, explore a problem, or determine the best solution. Spikes should have a goal and a definitive time box.
+
+## Resources
+To learn more about different types of spikes visit the following article from Visual Paradigm --> https://www.visual-paradigm.com/scrum/what-is-scrum-spike/
+Continuous integration and continuous delivery are fundamental Agile techniques that relate to software management practices and there is a lot more to learn about them than we cover in this lesson, but you can dive deeper into them by reading this article from Atlassian(opens in a new tab).
 
