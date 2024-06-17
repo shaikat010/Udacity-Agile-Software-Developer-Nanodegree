@@ -137,3 +137,5 @@ Please note that the cadence and timing of scrum events should be adjusted based
 
 Resources
 A lot of what we have covered in this course relates closely to the sprint planning meeting. To learn more go to this Atlassian article on sprint planning(opens in a new tab).
+
+https://www.atlassian.com/agile/scrum/sprint-planning
