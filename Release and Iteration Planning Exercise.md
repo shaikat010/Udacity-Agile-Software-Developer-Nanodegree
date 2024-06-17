@@ -106,3 +106,13 @@ Spike - A time box used by teams to do research, explore a problem, or determine
 To learn more about different types of spikes visit the following article from Visual Paradigm --> https://www.visual-paradigm.com/scrum/what-is-scrum-spike/
 Continuous integration and continuous delivery are fundamental Agile techniques that relate to software management practices and there is a lot more to learn about them than we cover in this lesson, but you can dive deeper into them by reading this article from Atlassian(opens in a new tab).
 
+
+# Some important points on team velocity 
+
+Velocity can't determine the success of a team.
+Velocity can’t be used to compare teams.
+Many factors account for the velocity of a team including but not limited to:
+Experience of the team
+Estimating techniques
+Complexity of the work
+Availability of the team
