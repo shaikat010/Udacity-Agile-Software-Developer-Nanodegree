@@ -49,5 +49,36 @@ This is based on
 
 ## Agile Approach to Managing Risks
 
+- Risks are threats to a product's success
+- Taskle the highest risk, highest value user stories first
+- Fail fast mindset
+- Prove that we can or cannot do it
+
+## Timeboxes
+
+- A set period of time to complete a work
+- Parameter of time helps team avoid spending too much time creating a solution
+- Timeboxes results in a working software or proof that a concept will or will not work.
+
+## Spikes
+
+- A timeboxed depp dive that a development team uses to discover or prove if an approach will work
+- Used to determine technical and functional approaches
+- Risk Management technique
+
+## Continuous Integration (CI)
+- The art of frequently integrating a developer's newly built code into the team / product code repository
+- Done in a development environment first
+- Integrations help discover problems with code faster
+- Fix problems faster
+- Less problems are rleased
+
+## Continuous Delivery (CD)
+- Perform frequent demo working software to customers
+- Frequent release the working software to customer
+- Give value earlier and more often
+- Receive and implement feedbacks
+
+
 
 
