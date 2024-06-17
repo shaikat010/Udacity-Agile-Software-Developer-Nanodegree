@@ -18,5 +18,36 @@ The Product Owner should work with the remaining team members to rescope and rep
 The team member going on paternity leave should not have an impact on the release plan because their time away from the team should have been considered during the release planning that took place three weeks ago. The team should be holding each other accountable for communicating expected out of office plans as vacation, paternity/maternity leave, training, military duty, etc because this impacts the teams capacity and the amount of work they can deliver.
 
 
-# Agile Techniques for Release and Iteration PLanning
+# Agile Techniques for Release and Iteration Planning
+
+## Execute on the Plans
+
+1. MVP
+2. Velocity
+3. Continuous Integration (CI)
+4. Continuous Delivery (CD)
+5. Managing Risks
+
+## Minimum Viable Product (MVP)
+This is based on 
+1. Priority
+2. Value
+3. Speed to Market
+4. Feedback
+5. Improvements
+
+## Velocity 
+
+### This is the amount of scope that the team is able to complete each iteration
+
+- This helps the team commit appropriately
+- Measured by the average number of story points completed each iteration
+- New teams need to complete 3-5 sprints estabish a velocity
+- New teams estimate velocity for first 3-5 sprints
+
+# Velocity Equation = Total Number of Story Points / Total Number of Sprints ( unit is points per sprint )
+
+## Agile Approach to Managing Risks
+
+
 
