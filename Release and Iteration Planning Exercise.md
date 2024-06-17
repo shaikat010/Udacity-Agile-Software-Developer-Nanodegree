@@ -16,3 +16,7 @@ The Product Owner should let the stakeholders and investors know that the develo
 The Product Owner should work with the stakeholders to re-prioritize the work to deliver the highest value and determine the scope of the “must-have” features for the next releases.
 The Product Owner should work with the remaining team members to rescope and replan the work for each release based on the changes to the team and their impact.
 The team member going on paternity leave should not have an impact on the release plan because their time away from the team should have been considered during the release planning that took place three weeks ago. The team should be holding each other accountable for communicating expected out of office plans as vacation, paternity/maternity leave, training, military duty, etc because this impacts the teams capacity and the amount of work they can deliver.
+
+
+# Agile Techniques for Release and Iteration PLanning
+
