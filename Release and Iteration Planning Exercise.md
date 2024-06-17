@@ -116,3 +116,24 @@ Experience of the team
 Estimating techniques
 Complexity of the work
 Availability of the team
+
+
+# Scrum Specific Planning
+
+Scrum is the most common framework used by Agile teams. The Scrum Framework leverages the following:
+
+4 Events:
+Sprint Planning
+Daily Stand-Up (Daily Scrum)
+Retrospective
+Sprint Review (Demo)
+Feedback Loops
+Time boxes.
+The events are all repeated continuously, making them feedback loops for communicating about the work amongst the Development Team, the Product Owner, and the Scrum Master.
+
+Scrum teams most often work in 2 week iterations that are called sprints. Teams commit to delivering a portion of the prioritized work by the end of the sprint. At the end of each sprint, the team demonstrates the working software to the Product Owner or Customer. Sprints in Scrum can be 1-4 weeks however a team should not change the length of a sprint once they decide the length of their sprints.
+
+Please note that the cadence and timing of scrum events should be adjusted based on the length of the team's sprints. If a team is using a 4 week sprint cycle instead of a 2-week sprint cycle, they may have a sprint planning meeting once every 4 weeks rather than every 2 weeks.
+
+Resources
+A lot of what we have covered in this course relates closely to the sprint planning meeting. To learn more go to this Atlassian article on sprint planning(opens in a new tab).
