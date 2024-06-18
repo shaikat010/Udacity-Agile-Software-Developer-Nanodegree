@@ -9,3 +9,5 @@ There are more defects than expected and they are afraid that they won’t be ab
 # Based on the scenario above:
 What agile techniques can the team use to improve future releases?
 How should the team handle the defects?
+
+
