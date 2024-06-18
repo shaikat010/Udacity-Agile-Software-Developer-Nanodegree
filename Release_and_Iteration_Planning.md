@@ -188,6 +188,7 @@ To learn more go to this Atlassian article on sprint planning --> https://www.at
 
 # Course Overview
 ![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/18cc4129-c973-4a40-93e1-9c2b6208c9c7)
-
+Course Overview - Agile Planning and Prioritization
+In this course, we covered Agile Planning, Prioritization, Scoping, and Release and Iteration Planning.
 
 
