@@ -185,3 +185,9 @@ Continuous integration and continuous delivery --> https://www.atlassian.com/agi
 
 A lot of what we have covered in this course relates closely to the sprint planning meeting. 
 To learn more go to this Atlassian article on sprint planning --> https://www.atlassian.com/agile/scrum/sprint-planning
+
+# Course Overview
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/18cc4129-c973-4a40-93e1-9c2b6208c9c7)
+
+
+
