@@ -158,3 +158,8 @@ When adopting Agile, it's important not to be overly prescriptive with ceremonie
 
 A lot of these key ideas were presented in the earlier lessons, but I am revisiting them because the Agile planning and prioritization process is cyclical. These cycles allow the team to be iterative and responsive so that value can be delivered continuously.
 
+
+# Lesson Review
+In this lesson, you were introduced to release and iteration planning and the steps and inputs needed to create each plan. You learned about Agile techniques such as MVPs which help teams get products out to customers faster so that feedback and direction can be given. You learned about Scrum Specific planning and the importance of Scrum ceremonies that are feedback loops to help teams continuously plan and improve.
+
+To plan it requires lots of organization and preparation but it should get easier as teams work together. You have to put all that you have learned together- A Vision, Roadmap, Well written User Stories in a Prioritized Backlog that are properly estimated
