@@ -144,3 +144,17 @@ New Definitions
 Release Plan - The plan for releasing the latest version of the software to the customer. The release plan is tactical and communicates what will be delivered and when it will be delivered. The release plan is made up of several iterations or sprints.
 Iteration Plan - The tactical plan for completing work within a set period of time. Most iterations are 2 weeks long and the iteration plan is more detailed and tactical than the release plan.
 
+
+# Scrum Specific Planning 
+
+notes here ----------------------------------
+
+
+# Best Practises and Adaptability
+
+In Agile, the actual software code is integrated frequently to help the teams identify problems sooner. As a best practice, the code should be integrated daily at a minimum because the feedback received from the integration helps improve the quality of the code. It is helpful if the team sets a continuous integration standard. For example: "Every engineer must merge their code at the end of each day"
+
+When adopting Agile, it's important not to be overly prescriptive with ceremonies and routines. Agile has a different look and feel at every company, so adjust when things don't work for you, your team, or your organization. Be creative and have fun with it!
+
+A lot of these key ideas were presented in the earlier lessons, but I am revisiting them because the Agile planning and prioritization process is cyclical. These cycles allow the team to be iterative and responsive so that value can be delivered continuously.
+
