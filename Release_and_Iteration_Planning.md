@@ -181,6 +181,7 @@ Spike - A time box used by teams to do research, explore a problem, or determine
 
 To learn more about different types of spikes visit the following article from Visual Paradigm --> https://www.visual-paradigm.com/scrum/what-is-scrum-spike/.
 
-Continuous integration and continuous delivery(opens in a new tab) are fundamental Agile techniques that relate to software management practices and there is a lot more to learn about them than we cover in this lesson, but you can dive deeper into them by reading this article from Atlassian(opens in a new tab).
+Continuous integration and continuous delivery --> https://www.atlassian.com/agile/software-development/continuous-integration --> are fundamental Agile techniques that relate to software management practices and there is a lot more to learn about them than we cover in this lesson, but you can dive deeper into them by reading this article from Atlassian(opens in a new tab).
 
-A lot of what we have covered in this course relates closely to the sprint planning meeting. To learn more go to this Atlassian article on sprint planning(opens in a new tab).
+A lot of what we have covered in this course relates closely to the sprint planning meeting. 
+To learn more go to this Atlassian article on sprint planning --> https://www.atlassian.com/agile/scrum/sprint-planning
