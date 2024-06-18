@@ -10,4 +10,6 @@ There are more defects than expected and they are afraid that they won’t be ab
 What agile techniques can the team use to improve future releases?
 How should the team handle the defects?
 
-
+# My Solution
+They should use the continuous integration continuous delivery technique (CI/CD)
+They defects should be added to the product backlog and in the next sprint should be prioritized by the product owner and then handled by the team. 
