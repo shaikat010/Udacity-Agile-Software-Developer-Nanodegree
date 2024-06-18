@@ -163,3 +163,24 @@ A lot of these key ideas were presented in the earlier lessons, but I am revisit
 In this lesson, you were introduced to release and iteration planning and the steps and inputs needed to create each plan. You learned about Agile techniques such as MVPs which help teams get products out to customers faster so that feedback and direction can be given. You learned about Scrum Specific planning and the importance of Scrum ceremonies that are feedback loops to help teams continuously plan and improve.
 
 To plan it requires lots of organization and preparation but it should get easier as teams work together. You have to put all that you have learned together- A Vision, Roadmap, Well written User Stories in a Prioritized Backlog that are properly estimated
+
+
+# Release and Iteration Planning Lesson Glossary & Resources
+## Lesson Vocabulary
+Continuous Delivery - A software development practice in which developers deliver working software frequently and iteratively.
+
+Continuous Integration - A software development practice in which developers merge code frequently into a shared code repository.
+
+Iteration Plan - The tactical plan for completing work within a set period of time. Most iterations are 2 weeks long and the iteration plan is more detailed and tactical than the release plan.
+
+Release Plan - The plan for releasing the latest version of the software to the customer. The release plan is tactical and communicates what will be delivered and when it will be delivered. The release plan is made up of several iterations or sprints.
+
+Spike - A time box used by teams to do research, explore a problem, or determine the best solution. Spikes should have a goal and a definitive time box.
+
+## Lesson Resources
+
+To learn more about different types of spikes visit the following article from Visual Paradigm --> https://www.visual-paradigm.com/scrum/what-is-scrum-spike/.
+
+Continuous integration and continuous delivery(opens in a new tab) are fundamental Agile techniques that relate to software management practices and there is a lot more to learn about them than we cover in this lesson, but you can dive deeper into them by reading this article from Atlassian(opens in a new tab).
+
+A lot of what we have covered in this course relates closely to the sprint planning meeting. To learn more go to this Atlassian article on sprint planning(opens in a new tab).
