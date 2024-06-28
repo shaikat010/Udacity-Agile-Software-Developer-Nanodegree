@@ -47,5 +47,21 @@ Git(opens in a new tab)
 GitHub(opens in a new tab)
 There are many more to deliver quality software, but these are all widespread tools.
 
+In this course, you will learn about Progress, Communication, and Organizational Agility. We will cover Agile metrics, and you will get introduced to the various metrics that Agile teams use to monitor health and measure progress, and you will learn how to create those metrics.
 
+Then we will dive deep into different techniques and tools for measuring progress beyond metrics. After that, you will learn how to identify risks and what to do to handle risks once they have been identified. Lastly, you will learn about effective communication in the Agile way!
+
+Note: It is important to understand that the content of this course is meant to build a foundation in understanding Agile. You will not be ready to be a Scrum Master or Agile Coach at the end of the course.
+
+However, these foundational skills and knowledge gained for this course will help you when working as part of an Agile Team, but does not necessarily make you job-ready as an Agile coach or Scrum Master, but provides the foundation to begin moving towards those goals successfully.
+
+# Course Overview
+![image](https://github.com/shaikat010/Udacity-Agile-Software-Developer-Nanodegree/assets/68814937/57621bb3-3338-4df1-8f04-8f758cfde992)
+
+
+### Lesson Glossary
+### KeyTerm	Definition
+Team	--> which includes a cross-functional collection of members including database admins, developers, technical writers, business analysts, UI experts, testers, automation experts, and anyone else needed to ensure the team is self-sufficient and can do all the work themselves without needing to pass work to another team to complete.
+The Product Owner	 --> also known as the 'voice of the customer'.
+The Scrum Master	--> normally considered the coach of the team.
 
