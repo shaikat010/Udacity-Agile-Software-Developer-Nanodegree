@@ -29,4 +29,23 @@ One secret for any team to be Agile is having cross-functional teams with all th
 Additional Resources
 Agile Manifesto --> https://agilemanifesto.org/
 
+# Tools and Environment 
+
+Throughout this course, you will be using a laptop and up-to-date web browser along with spreadsheets to do some of the exercises that have been planned for you. Also, a video recording device is optional if you want to record yourself responding to some situations that we will go through. For the project, you will use spreadsheets and slide presentation software.
+
+It is important to note that most metrics will be automatically calculated with the software listed below in an Agile position. However, this course is meant to make sure you have a firm grasp of what these metrics mean, so you'll be calculating many of them in a spreadsheet. This prevents you from becoming familiar with only one toolset and ensures that the tools you use in this course are free to use.
+
+When you are working in an Agile environment, you will use tools such as
+
+Trello(opens in a new tab)
+Jira(opens in a new tab)
+Confluence(opens in a new tab)
+Microsoft's Azure DevOps Service(opens in a new tab) (previously VSTS)
+Monday.com(opens in a new tab)
+Jenkins(opens in a new tab)
+Git(opens in a new tab)
+GitHub(opens in a new tab)
+There are many more to deliver quality software, but these are all widespread tools.
+
+
 
